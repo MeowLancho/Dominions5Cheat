@@ -1,2 +1,2 @@
 # Dominions5Cheat
-Dominions5Cheat by MeowLancho
+Dominions5Cheat(Console Edition) by MeowLancho
